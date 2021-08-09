@@ -1,4 +1,4 @@
-### Hi, I'm Alina<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Alina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 A Computer Science student and an aspiring Data Analyst with a sense of love for analyzing and visualizing data to make better and informed business decisions using modern tools and technologies.
 
