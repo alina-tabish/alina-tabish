@@ -1,6 +1,6 @@
 ### Hi, I'm Alina <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A Computer Science student and aspiring Data Analyst that enjoys analyzing and visualizing data in order to create better and more informed business choices utilizing cutting-edge tools and technology.
+A Computer Science student and aspiring Data Analyst that likes studying and visualizing data to assist organizations in making better and more informed business decisions via the use of cutting-edge tools and technology.
 
 Apart from data, I've got a soft spot for web development and digital design, so I design and convert my UI designs into code in my free time. You can check out my designs [here.](https://www.behance.net/alinatabise8c5)
 
